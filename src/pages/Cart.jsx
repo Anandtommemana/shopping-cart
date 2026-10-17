@@ -91,7 +91,7 @@ export default function Cart() {
             type="button"
             className="checkout-btn"
             onClick={() => {
-              alert('Order placed! Thank you for shopping at NovaMarket.');
+              alert('Order placed! Thank you for shopping at Medbestbuy.');
               clearCart();
             }}
           >
