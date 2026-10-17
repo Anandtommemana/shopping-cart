@@ -10,8 +10,7 @@ Trusted Online B2B Platform for Quality Medical Devices
 </span>
         <h1>Welcome to medbestbuy</h1>
         <p>
-          Explore electronics, minimal jewelry, and modern apparel with fast
-          delivery and zero hassle.
+          Explore wide range of medical devices online.
         </p>
         <Link to="/shop" className="cta-button">
           Explore the Shop →
